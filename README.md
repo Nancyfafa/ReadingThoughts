@@ -15,4 +15,6 @@ knowledge&technology-intensive industries
 >redwine/riddle经典评估模型，提出了“技术的目标”的重要概念：
 
 基础研究阶段》概念确立阶段：一般先明确系统在质量方面的要求（设计决策）；架构视角（architecture view）》探索发展阶段》内部改进拓展阶段：逐步
-使新技术稳定下来》外部改进拓展阶段》普及应用阶段   45页
+使新技术稳定下来》外部改进拓展阶段》普及应用阶段   
+
+>Martin Flower的分析模式；Gang of Four的经典设计模式。架构师的职责：要为系统整个生命周期负责。57页
